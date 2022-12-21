@@ -295,8 +295,8 @@ Name - {}
     CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-▫️<a href=https://t.me/at3movies> ᴍᴏᴠɪᴇ ʜᴜʙ </a>
-▫️<a href=https://t.me/Colours_Movies> ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs​ </a>
+▫️<a href=https://t.me/TeamHMT> Mᴏᴠɪᴇs Cʜᴀɴɴᴇʟ </a>
+▫️<a href=https://t.me/+pl4rB-xx8ltlOTE1> ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs​ </a>
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>""" 
 
     RESTART_TXT = """
