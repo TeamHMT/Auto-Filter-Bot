@@ -4,7 +4,7 @@ then
   git clone https://github.com/Kgashok06/Auto-filter-bot.git /Auto-filter-bot
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /Doctor-Strange
+  git clone $UPSTREAM_REPO /Auto-filter-bot
 fi
 cd /Doctor-Strange
 pip3 install -U -r requirements.txt
