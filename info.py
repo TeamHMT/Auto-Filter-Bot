@@ -48,7 +48,7 @@ BOT_TOKEN = environ['BOT_TOKEN']
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
-PICS = (environ.get('PICS', 'https://te.legra.ph/file/ccd278b7afcdf52e1a8a2.jpg https://te.legra.ph/file/cce1c345a4a752453a3a3.jpg')).split()
+PICS = (environ.get('PICS', 'https://te.legra.ph/file/ccd278b7afcdf52e1a8a2.jpg https://te.legra.ph/file/824b00f25ec2587c61aaf.jpg')).split()
 NOR_IMG = environ.get('NOR_IMG', "https://te.legra.ph/file/a27dc8fe434e6b846b0f8.jpg")
 SPELL_IMG = environ.get('SPELL_IMG',"https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
 
@@ -88,12 +88,12 @@ DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in enviro
 PORT = os.environ.get("PORT", "8080")
 MAX_BTN = int(environ.get('MAX_BTN', "7"))
 S_GROUP = environ.get('S_GROUP',"https://t.me/+pl4rB-xx8ltlOTE1")
-MAIN_CHANNEL = environ.get('MAIN_CHANNEL',"https://t.me/+17E3hzTClbFjNDhl")
+MAIN_CHANNEL = environ.get('MAIN_CHANNEL',"https://t.me/TeamHMT_Bots")
 FILE_FORWARD = environ.get('FILE_FORWARD',"https://t.me/+BVP4yf8HHEFmNmJl")
 MSG_ALRT = environ.get('MSG_ALRT', '𝑇ℎ𝑎𝑛𝑘𝑠 𝑇𝑜 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟 💖')
 FILE_CHANNEL = int(environ.get('FILE_CHANNEL', 0))
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'TeamHMT_Bot')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'TeamHMT_Bots')
 AUTO_DELETE = is_enabled((environ.get('AUTO_DELETE', "True")), True)
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
