@@ -21,7 +21,7 @@ class script(object):
 <b>- 𝚃𝙷𝙸𝚂 𝙸𝚂 𝙰𝙽 𝙸𝚂 𝙾𝙿𝙴𝙽 𝚂𝙾𝚄𝚁𝙲𝙴 𝙿𝚁𝙾𝙹𝙴𝙲𝚃. 
 - 𝚂𝙾𝚄𝚁𝙲𝙴 - 𝙲𝙻𝙸𝙲𝙺 𝚁𝙴𝙿𝙾 𝙱𝚄𝚃𝚃𝙾𝙽</b>
 <b>DEVS:</b>
-- <a href=https://t.me/czdbotz>𝙲𝚉𝙳 𝙱𝙾𝚃𝚉</a>"""
+- <a href=https://t.me/TEAMHMT_BOTS>𝙲𝚉𝙳 𝙱𝙾𝚃𝚉</a>"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -97,7 +97,7 @@ these are the extra features of Elsa
 ⏭️ /song 𝚂𝙾𝙽𝙶 𝙽𝙰𝙼𝙴 
 
 <b>𝚆𝙾𝚁𝙺𝚂 𝙱𝙾𝚃𝙷 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙿𝙼</b>
-@at3movies"""
+@TEAMHMT_BOTS"""
 
     VIDEO_TXT ="""𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝚅𝙸𝙳𝙴𝙾 𝙵𝚁𝙾𝙼 𝚈𝙾𝚄𝚃𝚄𝙱𝙴.
 • 𝘜𝘴𝘢𝘨𝘦
@@ -244,12 +244,12 @@ This module only works for my admins
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
 Added By - {}
-𝙲𝚉𝙳 𝙱𝙾𝚃𝚉
+TEAMHMT_BOTS
 """
     LOG_TEXT_P = """#NewUser
 ID - <code>{}</code>
 Name - {}
-𝙲𝚉𝙳 𝙱𝙾𝚃𝚉
+TEAMHMT_BOTS
 """
     FILE_MSG = """
 <b>Hai 👋 {} </b>😍
@@ -307,7 +307,7 @@ Name - {}
 
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
-    ALRT_TXT = """𝚃𝙷𝙰𝚃 𝙸𝚂 𝙽𝙾𝚃 𝙵𝙾𝚁 𝚈𝙾𝚄 𝚂𝙸𝚁 @ᴄᴢᴅ ʙᴏᴛᴢ​"""
+    ALRT_TXT = """𝚃𝙷𝙰𝚃 𝙸𝚂 𝙽𝙾𝚃 𝙵𝙾𝚁 𝚈𝙾𝚄 𝚂𝙸𝚁 TEAMHMT_BOTS​"""
 
     OLD_ALRT_TXT = """𝐘𝐨𝐮 𝐚𝐫𝐞 𝐮𝐬𝐢𝐧𝐠 𝐨𝐧𝐞 𝐨𝐟 𝐦𝐲 𝐨𝐥𝐝 𝐦𝐞𝐬𝐬𝐚𝐠𝐞𝐬, 𝐩𝐥𝐞𝐚𝐬𝐞 𝐬𝐞𝐧𝐝 𝐭𝐡𝐞 𝐫𝐞𝐪𝐮𝐞𝐬𝐭 𝐚𝐠𝐚𝐢𝐧 @ᴄᴢᴅ ʙᴏᴛᴢ​"""
 
@@ -319,7 +319,7 @@ Name - {}
 𝗜𝗗 <b>: {}</b>
 𝗡𝗮𝗺𝗲 <b>: {}</b>
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>
-©𝙲𝚉𝙳 𝙱𝙾𝚃𝚉"""
+©TEAMHMT_BOTS"""
 
     I_CUDNT = """𝑯𝑬𝑳𝑳𝑶 {} 𝑰 𝑪𝑶𝑼𝑳𝑫𝑵'𝑻 𝑭𝑰𝑵𝑫 𝑨𝑵𝒀 𝑴𝑶𝑽𝑰𝑬 𝑰𝑵 𝑻𝑯𝑨𝑻 𝑵𝑨𝑴𝑬 ."""
 
