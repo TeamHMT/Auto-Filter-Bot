@@ -53,7 +53,7 @@ async def start(client, message):
             InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/TeamHMT_Bots')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
-        m=await message.reply_sticker("CAACAgUAAxkBAAEG3GpjnZGMxfLrOF6BUUSxygU9tU0YzwACxwkAAhxu6VRvyqQ4Rs9jLCwE") 
+        m=await message.reply_sticker("CAACAgUAAxkBAAIBYmOkbpQ0brb4z4ggbPv4peTgcDb-AAIlBQACSr5ZVk64AdT0N9vYHgQ") 
         await asyncio.sleep(1)
         await m.delete()        
         await message.reply_photo(
