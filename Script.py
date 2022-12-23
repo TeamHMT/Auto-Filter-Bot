@@ -9,7 +9,7 @@ class script(object):
 # ⚠️ Please don't change our source code 👇🏻
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href='tg://settings'>Tʜɪs ᴘᴇʀsᴏɴ</a>
+✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/TeamHMT_Bots'>𝑻𝑻 𝑩𝑶𝑻𝑺</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 ✯ Dᴇᴠᴏʟᴏᴘᴇʀ: <a href='https://t.me/Kgashok04'>𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
@@ -176,7 +176,7 @@ To Get Sticker ID
 <b>COMMAND</b> : /font your text (optional)
         <b> Eg:- /font Hello</b>
 
- <i>This feature added by @𝙲𝚉𝙳 𝙱𝙾𝚃𝚉"""
+ <i>This feature added by @𝑇𝑇 𝐵𝑂𝑇𝑆"""
     JSON_TXT = """<b>JSON:</b>
 Bot returns json for all replied messages with /json or /js
 <b>Features:</b>
@@ -244,12 +244,12 @@ This module only works for my admins
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
 Added By - {}
-TEAMHMT_BOTS
+𝑇𝑇 𝐵𝑂𝑇𝑆
 """
     LOG_TEXT_P = """#NewUser
 ID - <code>{}</code>
 Name - {}
-TEAMHMT_BOTS
+𝑇𝑇 𝐵𝑂𝑇𝑆
 """
     FILE_MSG = """
 <b>Hai 👋 {} </b>😍
@@ -267,12 +267,12 @@ TEAMHMT_BOTS
 
 ⚠️ <b>This file will be deleted from here within 10 minute as it has copyright ... !!!</b>
 
-<b>© Powered by TeamHMT</b>
+<b>© Powered by 𝑇𝑇 𝐵𝑂𝑇𝑆</b>
 """
     SUR_TXT = """
 <b>
 𝙷𝙴𝙻𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 WILL 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈!!! 
 </b>
 """
 
@@ -293,8 +293,8 @@ TEAMHMT_BOTS
     CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-▫️<a href=https://t.me/TeamHMT> Mᴏᴠɪᴇ Cʜᴀɴɴᴇʟ </a>
-▫️<a href=https://t.me/+pl4rB-xx8ltlOTE1> ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs​ </a>
+▫️<a href=https://t.me/+pl4rB-xx8ltlOTE1> ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ </a>
+▫️<a href=https://t.me/+ps2An00KwZYwNTRl> ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs​ </a>
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>""" 
 
     RESTART_TXT = """
@@ -302,7 +302,7 @@ TEAMHMT_BOTS
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰Tɪᴍᴇ : <code>{}</code>
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
-©𝙲𝚉𝙳 𝙱𝙾𝚃𝚉</b>
+©𝑇𝑇 𝐵𝑂𝑇𝑆</b>
 """
 
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
