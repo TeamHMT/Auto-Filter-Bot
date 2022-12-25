@@ -48,7 +48,7 @@ BOT_TOKEN = environ['BOT_TOKEN']
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
-PICS = (environ.get('PICS', 'https://te.legra.ph/file/ccd278b7afcdf52e1a8a2.jpg https://te.legra.ph/file/824b00f25ec2587c61aaf.jpg')).split()
+PICS = (environ.get('PICS', 'https://te.legra.ph/file/ccd278b7afcdf52e1a8a2.jpg https://telegra.ph/file/ecf90f34f83e940dc52c8.jpg')).split()
 NOR_IMG = environ.get('NOR_IMG', "https://te.legra.ph/file/a27dc8fe434e6b846b0f8.jpg")
 SPELL_IMG = environ.get('SPELL_IMG',"https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
 
@@ -76,7 +76,7 @@ COMMAND_HAND_LER = environ.get("COMMAND_HAND_LER", "/")
 
 # MongoDB information
 DATABASE_URI = environ.get('DATABASE_URI', "")
-DATABASE_NAME = environ.get('DATABASE_NAME', "doctorstrange")
+DATABASE_NAME = environ.get('DATABASE_NAME', "ttbots")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 MONGO_URL = os.environ.get('MONGO_URL', "")
 
