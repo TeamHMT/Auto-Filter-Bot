@@ -1,22 +1,22 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Doctor-Strange!;Created+by+𝐂𝐫𝐚𝐳𝐲𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫ᠰ𝐓𝐆!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Auto-filter-bot!;Created+by+𝐓𝐓𝐁𝐎𝐓𝐒!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
 </p>
 <p align="center">
-  <img src="https://telegra.ph/file/8f6deb9d7fa796289a19b.jpg" alt="Strange">
+  <img src="https://te.legra.ph/file/8c84783d0e2077ed628a3.jpg" alt="AutoFilter">
 </p>
 <h1 align="center">
-  <b>Doctor-Strange</b>
+  <b>Auto-filter-bot</b>
 </h1>
 
-<a href="https://t.me/czdbotz_support">
+<a href="https://t.me/+pl4rB-xx8ltlOTE1">
   <img src="https://img.shields.io/badge/Join-blue?logo=telegram" width="70">
 
-[![Stars](https://img.shields.io/github/stars/CrazyDeveloperTG/Doctor-Strange?style=flat-square&color=yellow)](https://github.com/CrazyDeveloperTG/Doctor-Strange/stargazers)
-[![Forks](https://img.shields.io/github/forks/CrazyDeveloperTG/Doctor-Strange?style=flat-square&color=orange)](https://github.com/CrazyDeveloperTG/Doctor-Strange/fork)
-[![Size](https://img.shields.io/github/repo-size/CrazyDeveloperTG/Doctor-Strange?style=flat-square&color=green)](https://github.com/CrazyDeveloperTG/Doctor-Strange)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/CrazyDeveloperTG/Doctor-Strange)   
-[![Contributors](https://img.shields.io/github/contributors/CrazyDeveloperTG/Doctor-Strange?style=flat-square&color=green)](https://github.com/CrazyDeveloperTG/Doctor-Strange/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/CrazyDeveloperTG/Doctor-Strange/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/CrazyDeveloperTG/Doctor-Strange.svg)](https://stars.medv.io/CrazyDeveloperTG/Doctor-Strange)
+[![Stars](https://img.shields.io/github/stars/Kgashok06/Auto-filter-bot?style=flat-square&color=yellow)](https://github.com/Kgashok06/Auto-filter-bot/stargazers)
+[![Forks](https://img.shields.io/github/forks/Kgashok06/Auto-filter-bot?style=flat-square&color=orange)](https://github.com/Kgashok06/Auto-filter-bot/fork)
+[![Size](https://img.shields.io/github/repo-size/Kgashok06/Auto-filter-bot?style=flat-square&color=green)](https://github.com/Kgashok06/Auto-filter-bot)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Kgashok06/Auto-filter-bot)   
+[![Contributors](https://img.shields.io/github/contributors/Kgashok06/Auto-filter-bot?style=flat-square&color=green)](https://github.com/Kgashok06/Auto-filter-bot/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Kgashok06/Auto-filter-bot/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.ioKgashok06/Auto-filter-bot.svg)](https://stars.medv.io/Kgashok06/Auto-filter-bot)
 ## Features
 
 - [x] Auto Filter
@@ -83,7 +83,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <br>
 <p>
-<a href="https://heroku.com/deploy?template=https://github.com/CrazyDeveloperTG/Doctor-Strange">
+<a href="https://heroku.com/deploy?template=https://github.com/Kgashok06/Auto-filter-bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p></details>
@@ -91,14 +91,14 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Koyeb</summary>
 <br>
 <p>
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/CrazyDeveloperTG/Doctor-Strange&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[CHANNELS]&env[ADMINS]&env[PICS]&env[LOG_CHANNEL]&env[AUTH_CHANNEL]&env[CUSTOM_FILE_CAPTION]&env[DATABASE_URI]&env[DATABASE_NAME]&env[COLLECTION_NAME]=Telegram_files&env[FILE_CHANNEL]=-1001832732995&env[SUPPORT_CHAT]&env[IMDB]=True&env[IMDB_TEMPLATE]&env[SINGLE_BUTTON]=True&env[AUTH_GROUPS]&env[P_TTI_SHOW_OFF]=True&run_command=python%20bot.py&branch=main&name=doctor-strainge">
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Kgashok06/Auto-filter-bot&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[CHANNELS]&env[ADMINS]&env[PICS]&env[LOG_CHANNEL]&env[AUTH_CHANNEL]&env[CUSTOM_FILE_CAPTION]&env[DATABASE_URI]&env[DATABASE_NAME]&env[COLLECTION_NAME]=Telegram_files&env[FILE_CHANNEL]=-1001832732995&env[SUPPORT_CHAT]&env[IMDB]=True&env[IMDB_TEMPLATE]&env[SINGLE_BUTTON]=True&env[AUTH_GROUPS]&env[P_TTI_SHOW_OFF]=True&run_command=python%20bot.py&branch=main&name=doctor-strainge">
  <img src="https://www.koyeb.com/static/images/deploy/button.svg">
 </p>
 </details>
 <details><summary> Deploy To Okteto </summary>
 <br>
 <p>
-<a href="https://cloud.okteto.com/deploy?repository=https://github.com/CrazyDeveloperTG/Doctor-Strange&branch=main">
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/Kgashok06/Auto-filter-bot&branch=main">
   <img src="https://okteto.com/develop-okteto.svg" alt="Develop on Okteto">
 </a>
 </p>
@@ -106,7 +106,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/CrazyDeveloperTG/Doctor-Strange
+git clone https://github.com/Kgashok06/Auto-filter-bot
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -139,12 +139,12 @@ python3 bot.py
 * /setskip - used in index where indexing a specific number
 * /font - fonts for your text
 ```
-<b> 😇CREATOR » [AFSAL](https://t.me/AFxSU)</b>
+<b> 😇CREATOR » [ASHOK](https://t.me/Kgashok04)</b>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CrazyDeveloperTG&theme=highcontrast" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=CrazyDeveloperTG&theme=tokyonight" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyDeveloperTG&layout=compact&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Kgashok06&theme=highcontrast" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Kgashok06&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kgashok06&layout=compact&theme=tokyonight" align="center">
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> </a>
